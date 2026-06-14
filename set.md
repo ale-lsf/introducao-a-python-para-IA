@@ -52,7 +52,5 @@ Siga a ordem sugerida para melhor aproveitamento:
 4. 📚 Dicionários
 
 Bom estudo e boas programações! 🐍💻
-```
-
-Depois de criar os arquivos, basta substituir os textos **Lista**, **Tupla**, **Set** e **Dicionário** pelos links correspondentes dos notebooks ou pastas do seu repositório.
+@karizeviecelli - 2026
 
