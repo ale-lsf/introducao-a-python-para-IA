@@ -120,6 +120,8 @@ Compreender os fundamentos de Machine Learning e Deep Learning, desenvolvendo mo
 
 # 📚 Aula 05 – Separação de Dados e Boas Práticas
 
+🔗 Acesse: **[Aula 05](https://colab.research.google.com/drive/1be00MMkZu-QscZ5cMEteHshdcJfEZR8n?usp=sharing)**
+
 ## Conteúdo
 
 * Treino e teste
@@ -140,6 +142,8 @@ Compreender os fundamentos de Machine Learning e Deep Learning, desenvolvendo mo
 
 # 📚 Aula 06 – Classificação com KNN
 
+🔗 Acesse: **[Aula 06](https://colab.research.google.com/drive/1hMdg0PwhL0zkzAIbCwG8FlObZAcAp8mm?usp=sharing)**
+
 ## Conteúdo
 
 * Conceito de vizinhos mais próximos
@@ -159,6 +163,7 @@ Compreender os fundamentos de Machine Learning e Deep Learning, desenvolvendo mo
 
 # 📚 Aula 07 – Regressão Linear
 
+🔗 Acesse: **[Aula 07](https://colab.research.google.com/drive/1eUTaaCoACF_AgbpmuqsaDPGbDFQGcVZ_?usp=sharing)**
 ## Conteúdo
 
 * Problemas de regressão
@@ -177,7 +182,7 @@ Compreender os fundamentos de Machine Learning e Deep Learning, desenvolvendo mo
 ---
 
 # 📚 Aula 08 – Avaliação de Modelos
-
+🔗 Acesse: **[Aula 08](https://colab.research.google.com/drive/1w0jDF4OiEtXj2o6D2VTgnQ-kU_3uIzhM?usp=sharing)**
 ## Conteúdo
 
 * Acurácia
@@ -197,7 +202,7 @@ Compreender os fundamentos de Machine Learning e Deep Learning, desenvolvendo mo
 ---
 
 # 📚 Aula 09 – Projeto de Machine Learning
-
+🔗 Acesse: **[Aula 09](https://colab.research.google.com/drive/1xkwUrwlSkXFF6GBbBJc8d_qiJbC2vrli?usp=sharing)**
 ## Conteúdo
 
 * Fluxo completo de Machine Learning
@@ -216,7 +221,7 @@ Compreender os fundamentos de Machine Learning e Deep Learning, desenvolvendo mo
 ---
 
 # 🧠 Aula 10 – Introdução ao Deep Learning
-
+🔗 Acesse: **[Aula 10](https://colab.research.google.com/drive/1dZs0eLxD48vvZFGC3ew11LOsYSIe5TqV?usp=sharing)**
 ## Conteúdo
 
 * O que é Deep Learning
@@ -235,7 +240,7 @@ Compreender os fundamentos de Machine Learning e Deep Learning, desenvolvendo mo
 ---
 
 # 🧠 Aula 11 – Primeira Rede Neural com TensorFlow
-
+🔗 Acesse: **[Aula 11](https://colab.research.google.com/drive/14_G90GRouTnMEarKyGo1GFEkYYkZWryw?usp=sharing)**
 ## Conteúdo
 
 * TensorFlow
@@ -254,7 +259,7 @@ Compreender os fundamentos de Machine Learning e Deep Learning, desenvolvendo mo
 ---
 
 # 🧠 Aula 12 – Treinamento de Redes Neurais
-
+🔗 Acesse: **[Aula 12](https://colab.research.google.com/drive/1Au1tny1V-4fBddus4R1WqhhyRm7ICxsi?usp=sharing)**
 ## Conteúdo
 
 * Epochs
@@ -274,7 +279,7 @@ Compreender os fundamentos de Machine Learning e Deep Learning, desenvolvendo mo
 ---
 
 # 🧠 Aula 13 – Reconhecimento de Imagens
-
+🔗 Acesse: **[Aula 13](https://colab.research.google.com/drive/1GcB4LwlM6qDd5V_cuuuKTNIlLGvCgBXB?usp=sharing)**
 ## Conteúdo
 
 * Imagens como matrizes
@@ -293,7 +298,7 @@ Compreender os fundamentos de Machine Learning e Deep Learning, desenvolvendo mo
 ---
 
 # 🧠 Aula 14 – Redes Convolucionais (CNN)
-
+🔗 Acesse: **[Aula 14](https://colab.research.google.com/drive/1RuRtvBuibOtt3mMpseeAXyl4J0BrWtV2?usp=sharing)**
 ## Conteúdo
 
 * Convolução
@@ -312,7 +317,7 @@ Compreender os fundamentos de Machine Learning e Deep Learning, desenvolvendo mo
 ---
 
 # 🚀 Aula 15 – IA Generativa e Grandes Modelos de Linguagem
-
+🔗 Acesse: **[Aula 15](https://colab.research.google.com/drive/1hwXVt__WXoVqA3lU8HXgn3hJYLJg2MkT?usp=sharing)**
 ## Conteúdo
 
 * IA Generativa
