@@ -27,44 +27,4 @@ Determina que o panda começará a ser chamado de "pd".
 É o comando responsável pelo treinamento do modelo. Ele analisa os dados históricos fornecidos para "aprender" padrões e fazer previsões futuras.
 
 
-
-
-
-**from sklearn.linear\_model import LogisticRegression**
-
-
-
-**x = X = \[\[1], \[2], \[3], \[4], \[5], \[6]]** 
-
-**y = \[0, 0, 0, 1, 1, 1]** 
-
-
-
-**modelo = LogisticRegression() # cria o modelo**
-
-
-
-**modelo.fit(X, y) # treina o modelo**
-
-
-
-**previsao = modelo.predict(\[\[5]]) # faz a previsão**
-
-
-
-**print("Resultado:", previsao\[0]) # imprime o resultado**
-
-
-
-**if previsao\[0] == 1:**
-
-&#x20;   **print("O aluno foi aprovado.")** 
-
-**else:**
-
-&#x20;   **print("O aluno foi reprovado.")**
-
-
-
-
-
+https://colab.research.google.com/drive/1SY8sm29cpe7Wsijip0eyhL3H_g8ZaJrt#scrollTo=v2FMYUHYWD5k
